@@ -63,15 +63,25 @@ If people are going to be addicted to technology, let's direct that addiction to
 
 +++
 
-People enjoy creating things: imagination &rarr; reality.
+#### Imagination Into Reality
 
-Modifiable (aka moddable) games such as *Warcraft* and *The Elder Scrolls: Skyrim* have a steep learning curve, and so modding is typically done by more enthusiastic fans.
+![Sandcastle](assets/images/into_reality.png)
+
+People enjoy creating things.
 
 +++
 
+#### Simplicity Is Best
+
 ![Minecraft](assets/images/minecraft.jpeg)
 
-Minecraft is successful because it's simple: both kids and adults can create.
+Minecraft is successful because it's simple for kids and adults to create.
+
++++
+
+![Skyrim](assets/images/skyrim.png)
+
+Modifiable (colloquially: moddable) games such as *Warcraft* and *The Elder Scrolls: Skyrim* have a steep learning curve, and so modding is typically done by more earnest fans.
 
 +++
 
