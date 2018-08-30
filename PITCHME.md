@@ -59,7 +59,7 @@ How can so many of us be addicted to technology, yet only a fraction are able to
 
 ![Drive people's free will by providing them with a game that teaches them technical skills while playing.](assets/images/proposal.png)
 
-If people are going to be addicted to technology, let's drive that addiction to good use.
+If people are going to be addicted to technology, let's direct that addiction to good use.
 
 +++
 
@@ -75,16 +75,40 @@ Minecraft is successful because it's simple: both kids and adults can create.
 
 +++
 
-We're aiming for something in between &mdash; simple to mod, yet technically edifying.
+The solution to aim for is somewhere in between &mdash; simple to mod, yet technically edifying.
 
 ---
 
 ### Plan
 
-TODO
+1. Implement a 2.5D multiplayer action player-vs-player game.
+2. Modding as a first class concept.
+3. Easy sharing with other players.
+4. Provide high quality resources to encourage modding.
+
++++
+
+#### 2.5D Multiplayer PVP
+
+* 2D Sprites (characters)
+
+    You don't neet a powerful computer to run the game; people with basic computers can join.
+
+* Multiplayer PVP games are fun.
+* It doesn't take a prodigy to create 2D sprites.
+
+    These can be created with free software such as Paint.NET, and Krita.
+
++++
+
+#### Modding
+
+There are many modding variations, each training a different skill:
+
+* **Sprites:** Graphical art.
+* **Character behaviour:** Configuration and user experience.
+* **Scripted AI:** Programming and troubleshooting.
 
 ---
 
-### Feasibility
 
-TODO
