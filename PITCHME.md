@@ -51,7 +51,7 @@ We have technology addiction.
 
 ### The Question
 
-How can we be addicted to technology, yet be able to control it.
+How can we be addicted to technology, yet are unable to masterfully control it.
 
 ---
 
@@ -59,6 +59,32 @@ How can we be addicted to technology, yet be able to control it.
 
 ![Drive people's free will by providing them with a game that teaches them technical skills while playing.](assets/images/proposal.png)
 
+If people are going to be addicted to technology, let's drive that addiction to good use.
+
 +++
 
-If people are going to be addicted to technology, let's drive that addiction to good use.
+People enjoy creating things: imagination &rarr; reality.
+
+Modifiable (aka moddable) games such as *Warcraft* and *The Elder Scrolls: Skyrim* have a steep learning curve, and so modding is typically done by more enthusiastic fans.
+
++++
+
+![Minecraft](assets/images/minecraft.jpeg)
+
+Minecraft is successful because it's simple: both kids and adults can create.
+
++++
+
+We're aiming for something in between &mdash; simple to mod, yet technically edifying.
+
+---
+
+### Plan
+
+TODO
+
+---
+
+### Feasibility
+
+TODO
