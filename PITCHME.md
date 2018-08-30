@@ -63,7 +63,7 @@ If people are going to be addicted to technology, let's direct that addiction to
 
 +++
 
-#### Imagination Into Reality
+### Imagination Into Reality
 
 ![Sandcastle](assets/images/into_reality.png)
 
@@ -71,7 +71,15 @@ People enjoy creating things.
 
 +++
 
-#### Simplicity Is Best
+### Prior Art
+
+![Skyrim](assets/images/skyrim.png)
+
+*Warcraft* and *The Elder Scrolls: Skyrim* have a steep learning curve, and so modding is typically done by more earnest fans.
+
++++
+
+### Simplicity Is Best
 
 ![Minecraft](assets/images/minecraft.jpeg)
 
@@ -79,11 +87,9 @@ Minecraft is successful because it's simple for kids and adults to create.
 
 +++
 
-![Skyrim](assets/images/skyrim.png)
+### Balance
 
-Modifiable (colloquially: moddable) games such as *Warcraft* and *The Elder Scrolls: Skyrim* have a steep learning curve, and so modding is typically done by more earnest fans.
-
-+++
+![Sky Craft](assets/images/sky_craft.png)
 
 The solution to aim for is somewhere in between &mdash; simple to mod, yet technically edifying.
 
@@ -98,7 +104,7 @@ The solution to aim for is somewhere in between &mdash; simple to mod, yet techn
 
 +++
 
-#### 2.5D Multiplayer PVP
+### 2.5D Multiplayer PVP
 
 * 2D Sprites (characters)
 
@@ -111,7 +117,7 @@ The solution to aim for is somewhere in between &mdash; simple to mod, yet techn
 
 +++
 
-#### Modding
+### Modding
 
 There are many modding variations, each training a different skill:
 
