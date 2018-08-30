@@ -1,0 +1,8 @@
+[package]
+name = "proposal"
+version = "0.1.0"
+authors = ["Azriel Hoh <azriel91@gmail.com>"]
+
+[dependencies]
+console = "0.6"
+term = "0.5"

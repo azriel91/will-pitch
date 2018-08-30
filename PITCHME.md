@@ -51,15 +51,14 @@ We have technology addiction.
 
 ### The Question
 
-How can we be so addicted to technology, yet not have the technical skills in demand for this day and age.
+How can we be addicted to technology, yet be able to control it.
 
 ---
 
 ### The Proposal
 
-Remove people's free will and force them to learn technical skills.  
-Drive people's free will and provide them with a game that teaches them technical skills while playing.
+![Drive people's free will by providing them with a game that teaches them technical skills while playing.](assets/images/proposal.png)
 
 +++
 
-If people are going to be addicted to technology,
+If people are going to be addicted to technology, let's drive that addiction to good use.
