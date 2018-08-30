@@ -15,32 +15,41 @@ fn main() {
     let mut t = term::stdout().unwrap();
 
     print_sub(&mut t, "Remove");
-    print!(" people's free will and ");
+    t.fg(203).unwrap();
+    print!("{}", style(" people's free will and ").bold());
     print_sub(&mut t, "force");
-    print!(" them ");
+    t.fg(203).unwrap();
+    print!("{}", style(" them ").bold());
     print_sub(&mut t, "to learn");
-    println!(" technical skills.");
+    t.fg(203).unwrap();
+    println!("{}", style(" technical skills.").bold());
+    t.reset().unwrap();
 
     print_add(&mut t, "Drive");
-    print!(" people's free will ");
+    t.fg(155).unwrap();
+    print!("{}", style(" people's free will ").bold());
     print_add(&mut t, "by providing");
-    print!(" them ");
+    t.fg(155).unwrap();
+    print!("{}", style(" them ").bold());
     print_add(&mut t, "with a game that teaches them");
-    print!(" technical skills");
+    t.fg(155).unwrap();
+    print!("{}", style(" technical skills").bold());
     print_add(&mut t, " while playing");
-    println!(".");
+    t.fg(155).unwrap();
+    println!("{}", style(".").bold());
+    t.reset().unwrap();
 }
 
 fn print_add(t: &mut Box<StdoutTerminal>, text: &str) {
-    t.fg(color::BRIGHT_GREEN).unwrap();
     t.bg(color::GREEN).unwrap();
+    t.fg(155).unwrap();
     write!(t, "{}", style(text).bold()).unwrap();
     t.reset().unwrap();
 }
 
 fn print_sub(t: &mut Box<StdoutTerminal>, text: &str) {
-    t.fg(color::BRIGHT_RED).unwrap();
     t.bg(color::RED).unwrap();
+    t.fg(203).unwrap();
     write!(t, "{}", style(text).bold()).unwrap();
     t.reset().unwrap();
 }
