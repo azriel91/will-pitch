@@ -17,9 +17,9 @@ Take the classic game, Snake.
 ### What's Your Level?
 
 * **User** &mdash; Played the game.
-* **Editor** &mdash; Can blog about it.
+* **Editor** &mdash; Blogged about it.
 * **Developer** &mdash; Has implemented a clone.
-* **Experienced** &mdash; Runs a highly available distributed gaming service.
+* **Elite** &mdash; Runs a highly available secure gaming service with DDoS protection.
 
 ---
 
@@ -33,7 +33,7 @@ Research says there's an IT skills gap.
 
 ### Dealing With It
 
-We dish out visas for IT:
+We dish out visas:
 
 ![IT Skills Shortage](assets/images/skills_shortage.png)
 
@@ -51,7 +51,7 @@ We have technology addiction.
 
 ### The Question
 
-How can we be addicted to technology, yet are unable to masterfully control it.
+How can so many of us be addicted to technology, yet only a fraction are able to masterfully control it?
 
 ---
 
