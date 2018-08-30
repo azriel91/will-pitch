@@ -27,7 +27,7 @@ Take the classic game, Snake.
 
 Research says there's an IT skills gap.
 
-<sub>https://digitalskillsforum.files.wordpress.com/2017/12/digital_skills_report-online-2017-dec.pdf</sub>
+<small>https://digitalskillsforum.files.wordpress.com/2017/12/digital_skills_report-online-2017-dec.pdf</small>
 
 +++
 
@@ -35,9 +35,9 @@ Research says there's an IT skills gap.
 
 We dish out visas for IT:
 
-![IT Skills Shortage](skills_shortage.png)
+![IT Skills Shortage](assets/images/skills_shortage.png)
 
-<sub>http://skillshortages.immigration.govt.nz/software-engineer</sub>
+<small>http://skillshortages.immigration.govt.nz/software-engineer</small>
 
 ---
 
@@ -49,7 +49,7 @@ We have technology addiction.
 
 +++
 
-
+---
 
 ### The Question
 
