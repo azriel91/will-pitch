@@ -27,7 +27,7 @@ Take the classic game, Snake.
 
 Research says there's an IT skills gap.
 
-<small>https://digitalskillsforum.files.wordpress.com/2017/12/digital_skills_report-online-2017-dec.pdf</small>
+<small><small>https://digitalskillsforum.files.wordpress.com/2017/12/digital_skills_report-online-2017-dec.pdf</small></small>
 
 +++
 
@@ -37,7 +37,7 @@ We dish out visas for IT:
 
 ![IT Skills Shortage](assets/images/skills_shortage.png)
 
-<small>http://skillshortages.immigration.govt.nz/software-engineer</small>
+<small><small>http://skillshortages.immigration.govt.nz/software-engineer</small></small>
 
 ---
 
@@ -47,10 +47,19 @@ We dish out visas for IT:
 
 We have technology addiction.
 
-+++
-
 ---
 
 ### The Question
 
 How can we be so addicted to technology, yet not have the technical skills in demand for this day and age.
+
+---
+
+### The Proposal
+
+Remove people's free will and force them to learn technical skills.  
+Drive people's free will and provide them with a game that teaches them technical skills while playing.
+
++++
+
+If people are going to be addicted to technology,
