@@ -130,8 +130,8 @@ Many streams exist, each training a different skill:
 
 ### Platform
 
-The most common technical skills are done on a computer.  
-Therefore, implement a PC game compatible across major OSes:
+Most common technical tasks are done on a PC.  
+∴ Implement PC game compatible on major OSes:
 
 * Windows
 * Linux
