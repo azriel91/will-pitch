@@ -113,7 +113,7 @@ The solution to aim for is somewhere in between &mdash; simple to mod, yet techn
 
 * It doesn't take a prodigy to create 2D sprites.
 
-    These can be created with free software such as Paint.NET, and Krita.
+    These can be created with free software such as Paint.NET and Krita.
 
 +++
 
@@ -122,7 +122,7 @@ The solution to aim for is somewhere in between &mdash; simple to mod, yet techn
 Many streams exist, each training a different skill:
 
 * **Sprites:** Graphical art.
-* **Character behaviour:** Configuration and user experience.
+* **Characters:** Configuration and user experience.
 * **Scripted AI:** Programming and troubleshooting.
 * **Story:** Literacy fluency.
 
@@ -130,7 +130,12 @@ Many streams exist, each training a different skill:
 
 ### Platform
 
-The game will be written for PC, compatible across major OSes (Windows, Linux, OS X). The most common technical tasks are not practically done on a touch screen, so we target the lowest common denominator.
+The most common technical skills are done on a computer.  
+Therefore, implement a PC game compatible across major OSes:
+
+* Windows
+* Linux
+* OS X
 
 ---
 
@@ -138,7 +143,7 @@ The game will be written for PC, compatible across major OSes (Windows, Linux, O
 
 ![Prototype screenshot](assets/images/prototype_screenshot.png)
 
-A prototype is in active development, written in Rust<sup>1</sup>.
+A prototype is in development, written in Rust<sup>1</sup>.
 
 <small><small><sup>1</sup> https://www.rust-lang.org/</small></small>
 
