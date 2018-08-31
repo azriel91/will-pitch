@@ -1,5 +1,7 @@
 # Look-and-Feel
-logo      : assets/images/logo_will_s.png
+logo              : assets/images/logo_will_s.png
+code-line-numbers : true
+highlight         : sunburst
 
 # Behavior
 transition : none
