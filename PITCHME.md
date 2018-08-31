@@ -6,7 +6,7 @@ We remove the failing options.
 
 ---
 
-### How Well Do You Know IT?
+### How Well Do You Know I.T.?
 
 Take the classic game, Snake.
 
@@ -14,12 +14,12 @@ Take the classic game, Snake.
 
 +++
 
-### What's Your Level?
+### What's Your Tech Level?
 
 * **User** &mdash; Played the game.
 * **Editor** &mdash; Blogged about it.
 * **Developer** &mdash; Has implemented a clone.
-* **Elite** &mdash; Runs a highly available secure gaming service with DDoS protection.
+* **Veteran** &mdash; Runs an HA DDoS-protected gaming service with 20 edge locations.
 
 ---
 
