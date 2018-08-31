@@ -2,6 +2,7 @@
 logo              : assets/images/logo_will_s.png
 code-line-numbers : true
 highlight         : sunburst
+theme-override    : assets/css/PITCHME.css
 
 # Behavior
 transition : none
